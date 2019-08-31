@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
 
-www.amart123.github.io
+Just a simple test page at the moment - to develop further.
 
 https://amart123.github.io
